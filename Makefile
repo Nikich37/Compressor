@@ -1,2 +1,3 @@
 all:
-	g++ 'cpp/main.cpp' 'cpp/bwtUtil.cpp' -o main.exe
+	mkdir build
+	g++ 'cpp/main.cpp' 'cpp/bwtUtil.cpp' -o 'build/main.exe'

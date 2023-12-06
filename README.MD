@@ -4,9 +4,9 @@ Default block size: 900000 bytes
 
 **Compression steps:**
 
-1. Burrows-Wheeler Transform
+1. Burrows-Wheeler Transform (Done)
 
-2. Move-to-front
+2. Move-to-front (Done)
 
 3. Haffman
 
@@ -22,7 +22,7 @@ Default block size: 900000 bytes
 
 3. Run-Length decoding
 
-4. Move-to-Front restore
+4. Move-to-Front restore (Done)
 
-5. Burrows-Wheeler Transform restore
+5. Burrows-Wheeler Transform restore (Done)
 
